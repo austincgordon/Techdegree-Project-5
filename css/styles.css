@@ -1,0 +1,12 @@
+/* Global Styles */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Page Styles */
+
+#search {
+  display: block;
+  margin: auto;
+}
