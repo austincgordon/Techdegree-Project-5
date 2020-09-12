@@ -42,3 +42,7 @@
   grid-template-rows: repeat(auto-fit, minmax(200px, 200px));
   grid-gap: 20px;
 }
+
+.non-matched-image {
+  display: none;
+}
